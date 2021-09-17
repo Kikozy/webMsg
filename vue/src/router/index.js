@@ -6,7 +6,7 @@ Vue.use(VueRouter)
 
 const routes = [
     {
-        path: '/home',
+        path: '/',
         component: Home,
         beforeEnter: (to,from,next)=>{
             let data = window.localStorage

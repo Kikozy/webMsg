@@ -10,8 +10,10 @@
     "core-js": "^2.6.5",
     "node-sass": "^4.14.1",
     "sass-loader": "^7.3.1",
+    "socket.io-client": "^4.2.0",
     "vue": "^2.6.10",
-    "vue-router": "^3.5.2"
+    "vue-router": "^3.5.2",
+    "vue-socket.io": "^3.0.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
